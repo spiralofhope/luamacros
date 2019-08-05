@@ -1,3 +1,9 @@
+For some examples, check out:
+
+https://github.com/spiralofhope/shell-random/tree/master/live/LuaMacros
+
+
+
 ## Disclaimer
 Don't use this software. Really. It's difficult to use, has bugs and author has very little time to maintain it. It was written just to connect multiple keyboards to flight simulator (X plane) to control different knobs and buttons in the plane/helicopter. Author is using it just for this purpose.
 

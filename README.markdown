@@ -1,3 +1,5 @@
+https://blog.spiralofhope.com/?p=41108
+
 For some examples, check out:
 
 https://github.com/spiralofhope/shell-random/tree/master/live/LuaMacros
